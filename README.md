@@ -36,6 +36,10 @@ Como cualquier otra skill, la puedes invocar directamente:
 
 <img width="693" height="164" alt="image" src="https://github.com/user-attachments/assets/351c0c33-d6ad-4348-862f-e0bb7e109f80" />
 
+Como con cualquier otro contenido generado por un LLM, y más en el ámbito educativo, es obligatorio revisar las preguntas, su adecuación
+al contenido y audiencia a la que se dirige, posibles ambigüedades, respuestas incorrectas, etc. Esta revisión puede llevarse a cabo
+directamente con el LLM, en el Excel o en la propia plataforma Kahoot! tras importar las preguntas generadas.
+
 Para cargar el resultado en Kahoot, edita o crea uno nuevo, añade una pregunta y, finalmente,
 elige la pestaña/opción **Importar desde hoja de cálculo** (al final de las
 opciones de tipos de pregunta) y selecciona el `.xlsx`.
