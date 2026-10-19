@@ -40,7 +40,7 @@ Para cargar el resultado en Kahoot, edita o crea uno nuevo, añade una pregunta 
 elige la pestaña/opción **Importar desde hoja de cálculo** (al final de las
 opciones de tipos de pregunta) y selecciona el `.xlsx`.
 
-<img width="653" height="626" alt="image" src="https://github.com/user-attachments/assets/29b7a437-e325-4ec9-9338-1e5057ec2a99" />
+<img width="621" height="621" alt="image" src="https://github.com/user-attachments/assets/2c7eb812-8957-4422-a765-b980b9bcad73" />
 
 Kahoot! y sus marcas y logotipos son propiedad de sus respectivos titulares.
 Este proyecto es independiente y no está afiliado, patrocinado ni avalado por Kahoot!.
