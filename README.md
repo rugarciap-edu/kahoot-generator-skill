@@ -17,9 +17,11 @@ oficial y un generador que valida límites y baraja las respuestas correctas.
 
 ## Instalación rápida
 
-- **Claude Desktop:** en Configuración, abre **Capabilities > Skills** y usa la
-  opción para cargar/importar un skill. Selecciona
+- **Claude Desktop:** en Configuración, abre **Personalización > Skills** y usa la
+  opción para subir un skill. Selecciona
   `dist/generador-kahoot-v0.0.1.zip`.
+
+<img width="789" height="495" alt="image" src="https://github.com/user-attachments/assets/afcf2ce8-0f82-496b-8efd-d2294343732f" />
 
 Los nombres de las opciones pueden variar ligeramente según la versión de la
 aplicación. Consulta [la guía de instalación](docs/instalacion.md).
