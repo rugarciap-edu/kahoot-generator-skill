@@ -16,6 +16,8 @@ por respuesta), utiliza la plantilla incluida y distribuye las respuestas
 correctas entre las posiciones. Si una pregunta excede un límite, hay que
 reformularla y generar el archivo de nuevo; no se deben truncar las respuestas.
 
+**IMPORTANTE:** Revisa SIEMPRE el contenido generado por el LLM y su adecuación al público objetivo, materiales aportados, etc.
+
 ## Importar el Excel en Kahoot
 
 1. Abre Kahoot e inicia sesión.
