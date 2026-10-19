@@ -1,4 +1,4 @@
-# Generador de Kahoot
+# Generador de Kahoots
 
 Skill para convertir apuntes, documentos o texto en un cuestionario y un Excel
 compatible con la importación de hojas de cálculo de Kahoot. Incluye la plantilla
