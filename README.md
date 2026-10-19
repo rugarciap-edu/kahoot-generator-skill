@@ -32,8 +32,17 @@ Pide un Kahoot, adjunta el material y especifica el título y la cantidad de
 preguntas (por defecto, 20; máximo, 200). El skill genera el Excel listo para
 importar. 
 
-Para cargarlo en Kahoot, edita o crea un Kahoot, añade una pregunta,
+Como cualquier otra skill, la puedes invocar directamente:
+
+<img width="693" height="164" alt="image" src="https://github.com/user-attachments/assets/351c0c33-d6ad-4348-862f-e0bb7e109f80" />
+
+Para cargar el resultado en Kahoot, edita o crea uno nuevo, añade una pregunta y, finalmente,
 elige la pestaña/opción **Importar desde hoja de cálculo** (al final de las
 opciones de tipos de pregunta) y selecciona el `.xlsx`.
+
+<img width="653" height="626" alt="image" src="https://github.com/user-attachments/assets/29b7a437-e325-4ec9-9338-1e5057ec2a99" />
+
+Kahoot! y sus marcas y logotipos son propiedad de sus respectivos titulares.
+Este proyecto es independiente y no está afiliado, patrocinado ni avalado por Kahoot!.
 
 Consulta [la guía de uso](docs/uso.md) para el flujo completo.
